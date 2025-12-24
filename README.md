@@ -24,9 +24,9 @@ This repository contains multiple **C++ mini projects** built to practice core p
 
 ## 🚀 Project 3 — Grocery Store Management System
 
-• Built using C++ (STL) 
-• Features: Display products, add items to cart, view cart, checkout
-• Concepts: Structures, vectors, functions, menu-driven program
-• Folder: 03_Grocery_Store_Management_System
+- Built using C++ (STL) 
+- Features: Display products, add items to cart, view cart, checkout
+- Concepts: Structures, vectors, functions, menu-driven program
+- Folder: 03_Grocery_Store_Management_System
 
 ---
