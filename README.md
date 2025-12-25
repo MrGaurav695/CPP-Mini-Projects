@@ -30,3 +30,12 @@ This repository contains multiple **C++ mini projects** built to practice core p
 - Folder: 03_Grocery_Store_Management_System
 
 ---
+
+## 🚀 Project 4 — Railway Reservation System
+
+- Built using C++ (OOP + File Handling)
+- Features: Add trains, view available trains, book tickets, cancel tickets, view bookings
+- Concepts: Classes, vectors, file handling, data persistence, menu-driven program
+- Folder: 04_Railway_Reservation_System
+
+---
