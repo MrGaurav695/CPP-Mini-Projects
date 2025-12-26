@@ -48,3 +48,12 @@ This repository contains multiple **C++ mini projects** built to practice core p
 - Folder: 05_Contact_Management_System
 
 ---
+
+## 🚀 Project 6 — Bank Management System
+
+- Built using C++ (OOP + File Handling)
+- Features: Create account, login system, deposit money, withdraw money, view account details
+- Concepts: Classes, file handling using text files, data persistence, menu-driven program, basic validation
+- Folder: 06_Bank_Management_System
+
+---
