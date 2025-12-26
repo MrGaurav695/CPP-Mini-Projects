@@ -42,9 +42,9 @@ This repository contains multiple **C++ mini projects** built to practice core p
 
 ## 🚀 Project 5 — Contact Management System
 
--Built using C++ (File Handling + OOP)
--Features: Add contacts, view all contacts, search contacts by phone number
--Concepts: Classes, file handling (fstream), CSV parsing, menu-driven program
--Folder: 05_Contact_Management_System
+- Built using C++ (File Handling + OOP)
+- Features: Add contacts, view all contacts, search contacts by phone number
+- Concepts: Classes, file handling (fstream), CSV parsing, menu-driven program
+- Folder: 05_Contact_Management_System
 
 ---
