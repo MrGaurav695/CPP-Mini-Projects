@@ -57,3 +57,16 @@ This repository contains multiple **C++ mini projects** built to practice core p
 - Folder: 06_Bank_Management_System
 
 ---
+
+## 🚀 Project 7 — Library Management System
+
+- Built using C++ (STL + File Handling)
+- Features: Add books, view all books, search books by ID, issue books, return books, delete books
+- Concepts: Structures, STL vectors, file handling, data persistence, menu-driven program, inventory management
+- Folder: 07_Library_Management_System
+
+---
+
+## Author: Gaurav
+
+---
